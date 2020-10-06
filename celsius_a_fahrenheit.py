@@ -1,6 +1,9 @@
 import tensorflow as tf
+# pandas : permite cargar el set de datos cvs o tambien bases de datos
 import pandas as pd
+# numpy : Permite matematicas y matrices
 import numpy as np
+# seaborn: visualizaciones a nuestro modelo
 import seaborn as sns
 import matplotlib.pyplot as plt
 
